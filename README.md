@@ -1,5 +1,6 @@
-## Hi there 👋
-
+##Hola a todos 👋
+Ingeniero en informática, preprandome para el ingreso al area de ciberseguridad.
+Actualmente cuento con nociones basicas de Azure y entrenadome para AWS. 
 <!--
 **EdoGit2525/EdoGit2525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
